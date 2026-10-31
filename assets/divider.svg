@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 24" width="1000" height="24" role="img" aria-label="divider">
+<defs><linearGradient id="gl"><stop offset="0" stop-color="#8b7bd8" stop-opacity="0"/><stop offset=".5" stop-color="#b3a6ff"/><stop offset="1" stop-color="#8b7bd8" stop-opacity="0"/></linearGradient></defs>
+<rect width="1000" height="24" fill="#0a0a0c"/>
+<rect x="0" y="9" width="44" height="6" fill="#8b7bd8"/>
+<line x1="56" y1="12" x2="1000" y2="12" stroke="#1c1830" stroke-width="1"/>
+<line x1="100" y1="8" x2="100" y2="16" stroke="#2a2540"/><line x1="150" y1="8" x2="150" y2="16" stroke="#2a2540"/><line x1="200" y1="8" x2="200" y2="16" stroke="#2a2540"/><line x1="250" y1="8" x2="250" y2="16" stroke="#2a2540"/><line x1="300" y1="8" x2="300" y2="16" stroke="#2a2540"/><line x1="350" y1="8" x2="350" y2="16" stroke="#2a2540"/><line x1="400" y1="8" x2="400" y2="16" stroke="#2a2540"/><line x1="450" y1="8" x2="450" y2="16" stroke="#2a2540"/><line x1="500" y1="8" x2="500" y2="16" stroke="#2a2540"/><line x1="550" y1="8" x2="550" y2="16" stroke="#2a2540"/><line x1="600" y1="8" x2="600" y2="16" stroke="#2a2540"/><line x1="650" y1="8" x2="650" y2="16" stroke="#2a2540"/><line x1="700" y1="8" x2="700" y2="16" stroke="#2a2540"/><line x1="750" y1="8" x2="750" y2="16" stroke="#2a2540"/><line x1="800" y1="8" x2="800" y2="16" stroke="#2a2540"/><line x1="850" y1="8" x2="850" y2="16" stroke="#2a2540"/><line x1="900" y1="8" x2="900" y2="16" stroke="#2a2540"/><line x1="950" y1="8" x2="950" y2="16" stroke="#2a2540"/>
+<rect x="-200" y="11" width="200" height="2" fill="url(#gl)"><animate attributeName="x" values="-200;1000" dur="4.5s" repeatCount="indefinite"/></rect>
+<rect x="560" y="5" width="8" height="14" fill="#8b7bd8" opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1;0;1;0" keyTimes="0;.5;.52;.56;.58" dur="3.2s" repeatCount="indefinite"/></rect>
+<rect x="760" y="8" width="14" height="8" fill="#e8e6ee" opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;.8;0" keyTimes="0;.8;.83" dur="4s" repeatCount="indefinite"/></rect>
+<text x="980" y="17" text-anchor="end" font-family="JetBrains Mono, Fira Code, ui-monospace, Courier New, monospace" font-size="10" letter-spacing="3" fill="#6b6580">///</text>
+</svg>

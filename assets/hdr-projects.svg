@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 84" width="1000" height="84" role="img" aria-label="05 PROJECTS">
+<rect width="1000" height="84" fill="#0a0a0c"/>
+<text x="0" y="68" font-family="Arial Black, Impact, Haettenschweiler, Helvetica Neue, Arial, sans-serif" font-size="76" font-weight="900" fill="none" stroke="#3a3358" stroke-width="1.5">05</text>
+<text x="124" y="58" font-family="Arial Black, Impact, Haettenschweiler, Helvetica Neue, Arial, sans-serif" font-size="38" font-weight="900" letter-spacing="3" fill="#8b7bd8" opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;.8;0;.6;0" keyTimes="0;.70;.72;.90;.92" dur="5s" repeatCount="indefinite"/><animate attributeName="x" calcMode="discrete" values="124;116;124;132;124" keyTimes="0;.70;.72;.90;.92" dur="5s" repeatCount="indefinite"/>PROJECTS</text>
+<text x="124" y="58" font-family="Arial Black, Impact, Haettenschweiler, Helvetica Neue, Arial, sans-serif" font-size="38" font-weight="900" letter-spacing="3" fill="#f2f0f8">PROJECTS</text>
+<text x="1000" y="26" text-anchor="end" font-family="JetBrains Mono, Fira Code, ui-monospace, Courier New, monospace" font-size="12" letter-spacing="3" fill="#6b6580">// builds</text>
+<line x1="124" y1="74" x2="1000" y2="74" stroke="#1c1830"/>
+<rect x="124" y="72" width="64" height="4" fill="#8b7bd8"><animate attributeName="x" values="124;936;124" dur="6s" repeatCount="indefinite"/></rect>
+</svg>

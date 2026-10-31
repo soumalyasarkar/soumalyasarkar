@@ -1,0 +1,331 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img"
+    aria-label="SOUMALYA SARKAR banner: INKTENEBRIS / PERSONAL ARCHIVE. Ink on paper, code on screen.">
+    <defs>
+        <radialGradient id="g1" cx="50%" cy="50%" r="50%">
+            <stop offset="0" stop-color="#7c5cff" stop-opacity=".38" />
+            <stop offset="1" stop-color="#7c5cff" stop-opacity="0" />
+        </radialGradient>
+        <radialGradient id="g2" cx="50%" cy="50%" r="50%">
+            <stop offset="0" stop-color="#4b3a8f" stop-opacity=".5" />
+            <stop offset="1" stop-color="#4b3a8f" stop-opacity="0" />
+        </radialGradient>
+        <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+            <rect width="4" height="1" fill="#fff" opacity=".06" />
+        </pattern>
+        <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#8b7bd8" stop-opacity="0" />
+            <stop offset=".5" stop-color="#8b7bd8" stop-opacity=".16" />
+            <stop offset="1" stop-color="#8b7bd8" stop-opacity="0" />
+        </linearGradient>
+        <clipPath id="frame">
+            <rect width="1200" height="420" rx="6" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#frame)">
+        <rect width="1200" height="420" fill="#0a0a0c" />
+        <circle cx="260" cy="120" r="300" fill="url(#g1)">
+            <animateTransform attributeName="transform" type="translate" values="0 0;160 60;60 -40;0 0" dur="16s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="1000" cy="360" r="340" fill="url(#g2)">
+            <animateTransform attributeName="transform" type="translate" values="0 0;-180 -60;-60 40;0 0" dur="20s"
+                repeatCount="indefinite" />
+        </circle>
+        <path d="M-20 330 C 200 240, 330 400, 520 300 S 820 180, 1220 260" pathLength="1" fill="none" stroke="#17142a"
+            stroke-opacity="1" stroke-width="16" stroke-linecap="round" stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.38;.8;1" dur="10s" begin="0.0s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M-20 330 C 200 240, 330 400, 520 300 S 820 180, 1220 260" pathLength="1" fill="none" stroke="#8b7bd8"
+            stroke-opacity="0.55" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="1 1"
+            stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.38;.8;1" dur="10s" begin="0.15s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M-20 120 C 180 40, 380 200, 600 110 S 980 20, 1220 150" pathLength="1" fill="none" stroke="#14112a"
+            stroke-opacity="1" stroke-width="12" stroke-linecap="round" stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.38;.8;1" dur="12s" begin="1.5s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M-20 120 C 180 40, 380 200, 600 110 S 980 20, 1220 150" pathLength="1" fill="none" stroke="#e8e6ee"
+            stroke-opacity="0.22" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="1 1"
+            stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.38;.8;1" dur="12s" begin="1.65s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M700 440 C 760 330, 900 360, 960 240 S 1100 120, 1180 -20" pathLength="1" fill="none" stroke="#1c1838"
+            stroke-opacity="1" stroke-width="9" stroke-linecap="round" stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.38;.8;1" dur="9s" begin="3.0s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M700 440 C 760 330, 900 360, 960 240 S 1100 120, 1180 -20" pathLength="1" fill="none" stroke="#8b7bd8"
+            stroke-opacity="0.5" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.38;.8;1" dur="9s" begin="3.1s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M60 -10 C 120 120, 40 220, 160 300" pathLength="1" fill="none" stroke="#1c1838" stroke-opacity="1"
+            stroke-width="7" stroke-linecap="round" stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.38;.8;1" dur="8s" begin="2.0s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M860 46 L790 177" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="0.00s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M870 46 L800 174" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="0.12s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M880 48 L810 178" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="0.24s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M890 38 L820 165" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="0.36s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M900 48 L830 175" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="0.48s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M910 37 L840 163" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="0.60s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M920 46 L850 169" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="0.72s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M930 36 L860 162" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="0.84s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M940 33 L870 179" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="0.96s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M950 44 L880 174" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="1.08s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M960 37 L890 179" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="1.20s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M970 32 L900 176" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="1.32s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M980 34 L910 161" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="1.44s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M990 33 L920 166" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="1.56s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M1000 39 L930 179" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="1.68s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M1010 32 L940 174" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="1.80s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M1020 42 L950 174" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="1.92s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M1030 38 L960 176" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="2.04s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M1040 39 L970 180" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="2.16s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M1050 41 L980 175" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="2.28s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M1060 32 L990 162" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="2.40s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M1070 46 L1000 180" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="2.52s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M1080 40 L1010 173" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="2.64s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M1090 34 L1020 168" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="2.76s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M1100 42 L1030 167" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="2.88s"
+                repeatCount="indefinite" />
+        </path>
+        <path d="M1110 48 L1040 169" pathLength="1" fill="none" stroke="#e8e6ee" stroke-opacity=".15" stroke-width=".8"
+            stroke-dasharray="1 1" stroke-dashoffset="1">
+            <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;.3;.8;1" dur="7s" begin="3.00s"
+                repeatCount="indefinite" />
+        </path>
+        <circle cx="80" cy="430" r="1" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="16s" begin="-1s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="16s" begin="-1s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="840" cy="430" r="1" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="11s" begin="-6s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="11s" begin="-6s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="156" cy="430" r="1" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="7s" begin="-3s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="7s" begin="-3s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="449" cy="430" r="1" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="14s" begin="-6s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="14s" begin="-6s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="833" cy="430" r="2" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="8s" begin="-3s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="8s" begin="-3s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="572" cy="430" r="1.6" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="8s" begin="-4s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="8s" begin="-4s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="701" cy="430" r="1" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="13s" begin="-1s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="13s" begin="-1s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="295" cy="430" r="1.2" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="8s" begin="-0s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="8s" begin="-0s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="142" cy="430" r="2" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="14s" begin="-2s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="14s" begin="-2s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="1165" cy="430" r="1.2" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="14s" begin="-8s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="14s" begin="-8s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="410" cy="430" r="1.2" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="13s" begin="-6s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="13s" begin="-6s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="258" cy="430" r="2" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="13s" begin="-3s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="13s" begin="-3s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="20" cy="430" r="1.6" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="16s" begin="-4s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="16s" begin="-4s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="60" cy="430" r="1.2" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="9s" begin="-6s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="9s" begin="-6s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="225" cy="430" r="1" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="9s" begin="-3s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="9s" begin="-3s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="924" cy="430" r="1.6" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="7s" begin="-5s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="7s" begin="-5s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="626" cy="430" r="2" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="8s" begin="-1s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="8s" begin="-1s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle cx="204" cy="430" r="1.2" fill="#8b7bd8" opacity="0">
+            <animate attributeName="cy" values="430;-10" dur="16s" begin="-3s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="16s" begin="-3s"
+                repeatCount="indefinite" />
+        </circle>
+        <rect width="1200" height="420" fill="url(#scan)" />
+        <rect x="0" y="-30" width="1200" height="30" fill="url(#bar)">
+            <animate attributeName="y" values="-30;420" dur="5.5s" repeatCount="indefinite" />
+        </rect>
+        <text x="72" y="108" font-family="JetBrains Mono, Fira Code, ui-monospace, Courier New, monospace"
+            font-size="16" letter-spacing="5" fill="#8b7bd8">INKTENEBRIS / PERSONAL ARCHIVE</text>
+        <text x="72" y="238" font-family="Arial Black, Impact, Haettenschweiler, Helvetica Neue, Arial, sans-serif"
+            font-size="112" font-weight="900" letter-spacing="-2" fill="#3d3270" opacity="0">
+            <animate attributeName="opacity" calcMode="discrete" values="0;0.8;0;0.8;0" keyTimes="0;0.62;0.65;0.82;0.85"
+                dur="6s" repeatCount="indefinite" />
+            <animate attributeName="x" calcMode="discrete" values="72;80;72;64;72" keyTimes="0;0.62;0.65;0.82;0.85"
+                dur="6s" repeatCount="indefinite" />SOUMALYA SARKAR
+        </text>
+        <text x="72" y="238" font-family="Arial Black, Impact, Haettenschweiler, Helvetica Neue, Arial, sans-serif"
+            font-size="112" font-weight="900" letter-spacing="-2" fill="#8b7bd8" opacity="0">
+            <animate attributeName="opacity" calcMode="discrete" values="0;0.9;0;0.9;0" keyTimes="0;0.60;0.63;0.80;0.83"
+                dur="6s" repeatCount="indefinite" />
+            <animate attributeName="x" calcMode="discrete" values="72;64;72;80;72" keyTimes="0;0.60;0.63;0.80;0.83"
+                dur="6s" repeatCount="indefinite" />SOUMALYA SARKAR
+        </text>
+        <text x="72" y="238" font-family="Arial Black, Impact, Haettenschweiler, Helvetica Neue, Arial, sans-serif"
+            font-size="112" font-weight="900" letter-spacing="-2" fill="#f2f0f8">SOUMALYA SARKAR</text>
+        <rect x="0" y="150" width="1200" height="5" fill="#8b7bd8" opacity="0">
+            <animate attributeName="opacity" calcMode="discrete" values="0;.35;0;.25;0" keyTimes="0;.60;.63;.80;.83"
+                dur="6s" repeatCount="indefinite" />
+            <animate attributeName="y" calcMode="discrete" values="150;120;150;196;150" keyTimes="0;.60;.63;.80;.83"
+                dur="6s" repeatCount="indefinite" />
+        </rect>
+        <text x="74" y="292" font-family="JetBrains Mono, Fira Code, ui-monospace, Courier New, monospace"
+            font-size="21" fill="#b9b4cc">ink on paper, code on screen.</text>
+        <text x="74" y="378" font-family="JetBrains Mono, Fira Code, ui-monospace, Courier New, monospace"
+            font-size="13" letter-spacing="4" fill="#6b6580">ARTIST ▪ GRAPHIC DESIGNER ▪ DEVELOPER</text>
+        <circle cx="1062" cy="46" r="4" fill="#8b7bd8">
+            <animate attributeName="opacity" values="1;.15;1" dur="1.6s" repeatCount="indefinite" />
+        </circle><text x="1076" y="51" font-family="JetBrains Mono, Fira Code, ui-monospace, Courier New, monospace"
+            font-size="12" letter-spacing="3" fill="#6b6580">ONLINE</text>
+        <path d="M24 52 V24 H52 M1176 52 V24 H1148 M24 368 V396 H52 M1176 368 V396 H1148" fill="none" stroke="#8b7bd8"
+            stroke-opacity=".6" stroke-width="1.5" />
+    </g>
+    <rect x=".5" y=".5" width="1199" height="419" rx="6" fill="none" stroke="#1c1830" />
+</svg>
