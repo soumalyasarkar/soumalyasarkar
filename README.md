@@ -86,9 +86,50 @@ role   : artist / designer / dev
 <br>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
 ```text
-Waiting for the first WakaTime sync. Real activity will appear here once tracking is connected.
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+HTML                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+YAML                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+Markdown                 15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+CSS                      9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+
+🔥 Editors: 
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    1 hr 3 mins         █████████████████████████   100.00 % 
 ```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 3 mins (100.0%)
+
+✍️ 99 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 422,925 Input Tokens, 67,873 Output Tokens
+
+💵 $0.93 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 23 AI Prompts
+
+GPT                      360 lines           █████████████████████████   100.00 % 
+Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 795 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 31/10/2026 19:03:00 UTC
 <!--END_SECTION:waka-->
 
 <br>
