@@ -77,7 +77,7 @@ role   : artist / designer / dev
 
 <br>
 
-<img src="assets/stack.svg" width="100%" alt="Stack: Python; HTML, CSS, JavaScript; MySQL; Git, GitHub; VS Code, Notepad++, Geany; Photoshop, Premiere Pro, LibreOffice; Linux Mint XFCE, Windows 10">
+<img src="assets/stack.svg" width="100%" alt="Technology stack: Python; JSON, Markdown; HTML, CSS, JavaScript; MySQL; Git, GitHub, Xfce Terminal; VS Code, Geany; Photoshop, GIMP; Linux Mint XFCE, Windows 10">
 
 <br>
 
