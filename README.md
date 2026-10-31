@@ -4,7 +4,9 @@
 
 <br>
 
-<img src="assets/typing.svg" alt="hi, i'm jojo. i draw dark things with ballpoint pens. graphic design in photoshop. learning python, sql and the web stack." width="640">
+<img src="assets/image/cat.gif" width="17%" alt="">
+
+<img src="assets/typing.svg" alt="i'm soumalya. i draw dark things with ballpoint pens. graphic design in photoshop. learning python, sql and the web stack." width="640">
 
 <br>
 
@@ -84,51 +86,21 @@ role   : artist / designer / dev
 <br>
 
 <!--START_SECTION:waka-->
-
-<!-- ```text
-Programming Languages:
-Python            15 hrs 39 mins
-████████████████████░░░░░   82.87%
-HTML                     49 mins
-█░░░░░░░░░░░░░░░░░░░░░░░░   4.39%
-CSS                      46 mins
-█░░░░░░░░░░░░░░░░░░░░░░░░   4.08%
-Javascript               30 mins
-░░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
-Git                      30 mins
-░░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
-SQL                      30 mins
-░░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
-Other                    30 mins
-░░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
-
-Editors:
-VS Code           18 hrs 53 mins
-█████████████████████████   100.0%
-Geany                    30 mins
-░░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
-Notepad++                30 mins
-░░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
-
-Operating System:
-Windows           14 hrs 19 mins
-███████████████████░░░░░░   75.81%
-Linux Mint         4 hrs 34 mins
-██████░░░░░░░░░░░░░░░░░░░   24.19%
-
-``` -->
+```text
+Waiting for the first WakaTime sync. Real activity will appear here once tracking is connected.
+```
 <!--END_SECTION:waka-->
 
 <br>
 
-<img src="assets/hdr-projects.svg" width="100%" alt="05 / rojects">
+<img src="assets/hdr-projects.svg" width="100%" alt="05 / Projects">
 
 <br>
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/soumalyasarkar/music-metadata-manager"><img src="assets/card-site.svg" width="100%" alt="music-metadata-manager, active"></a></td>
-<td width="50%"><a href="https://github.com/soumalyasarkar/soumalyasarkar"><img src="assets/card-music.svg" width="100%" alt="inktenebris.site, planned; profile README repository"></a></td>
+<td width="50%"><img src="assets/card-music.svg" width="100%" alt="music-metadata-manager, active project"></td>
+<td width="50%"><img src="assets/card-site.svg" width="100%" alt="inktenebris.site, planned"></td>
 </tr>
 <tr>
 <td width="50%"><a href="https://github.com/soumalyasarkar?tab=repositories"><img src="assets/card-sql.svg" width="100%" alt="sql-sandbox, learning; browse repositories"></a></td>
@@ -142,16 +114,7 @@ Linux Mint         4 hrs 34 mins
 
 <br>
 
-<table>
-<tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=soumalyasarkar&show_icons=true&hide_border=true&bg_color=0a0a0c&title_color=8b7bd8&text_color=c9c6d6&icon_color=8b7bd8&ring_color=8b7bd8" width="100%" alt="GitHub stats"></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumalyasarkar&layout=compact&langs_count=6&hide_border=true&bg_color=0a0a0c&title_color=8b7bd8&text_color=c9c6d6&icon_color=8b7bd8&ring_color=8b7bd8" width="100%" alt="Top languages"></td>
-</tr>
-</table>
-
 <img src="https://streak-stats.demolab.com/?user=soumalyasarkar&theme=dark&hide_border=true&background=0a0a0c&ring=8b7bd8&fire=8b7bd8&currStreakNum=f2f0f8&sideNums=f2f0f8&currStreakLabel=8b7bd8&sideLabels=c9c6d6&dates=6b6580" width="100%" alt="Contribution streak">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumalyasarkar&bg_color=0a0a0c&color=c9c6d6&line=8b7bd8&point=f2f0f8&area=true&area_color=8b7bd8&hide_border=true" width="100%" alt="Contribution activity graph">
 
 <img src="https://raw.githubusercontent.com/soumalyasarkar/soumalyasarkar/output/github-snake-dark.svg" width="100%" alt="Contribution snake">
 
@@ -165,7 +128,7 @@ Linux Mint         4 hrs 34 mins
 
 <a href="https://instagram.com/inktenebris_art"><img src="https://img.shields.io/badge/instagram-inktenebris-17142a?style=for-the-badge&logo=instagram&logoColor=8b7bd8&labelColor=0a0a0c" alt="Instagram"></a>
 
-<a href="mailto:soumalyasarkar61@gmail.com"><img src="https://img.shields.io/badge/instagram-inktenebris-17142a?style=for-the-badge&logo=instagram&logoColor=8b7bd8&labelColor=0a0a0c" alt="Mail"></a>
+<a href="mailto:soumalyasarkar61@gmail.com"><img src="https://img.shields.io/badge/email-contact-17142a?style=for-the-badge&logo=gmail&logoColor=8b7bd8&labelColor=0a0a0c" alt="Email"></a>
 
 <br>
 
