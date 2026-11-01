@@ -85,6 +85,28 @@ role   : artist / designer / dev
 
 <br>
 
+<!--START_SECTION:waka-today-->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**☀️ TODAY'S CODING**
+
+<!--WAKATIME_TODAY_TIME-->
+`Updating...`
+
+</td>
+<td width="50%" valign="top">
+
+**📅 LAST 7 COMPLETED DAYS**
+
+<sub>Excludes today's activity</sub>
+
+</td>
+</tr>
+</table>
+<!--END_SECTION:waka-today-->
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -108,6 +130,7 @@ Linux                    1 hr 3 mins         ███████████�
 
  Last Updated on 01/11/2026 10:17:58 UTC
 <!--END_SECTION:waka-->
+
 
 <br>
 
