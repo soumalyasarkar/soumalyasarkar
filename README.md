@@ -97,14 +97,13 @@ role   : artist / designer / dev
 
 <sub>2026-11-01 · Asia/Kolkata</sub>
 
-`Updating...`
 
 </td>
 <td width="50%" valign="top">
 
 **📅 LAST 7 COMPLETED DAYS**
 
-<sub>Excludes today's activity</sub>
+`Waiting for the first successful update.`
 
 </td>
 </tr>
@@ -148,8 +147,8 @@ Linux                    1 hr 3 mins         ███████████�
 <td width="50%"><img src="assets/card-site.svg" width="100%" alt="inktenebris.site, planned"></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/soumalyasarkar?tab=repositories"><img src="assets/card-sql.svg" width="100%" alt="sql-sandbox, learning; browse repositories"></a></td>
-<td width="50%"><a href="https://github.com/soumalyasarkar?tab=repositories"><img src="assets/card-dots.svg" width="100%" alt="dotfiles, planned; browse repositories"></a></td>
+<td width="50%"><img src="assets/card-sql.svg" width="100%" alt="sql-sandbox, learning"></td>
+<td width="50%"><img src="assets/card-dots.svg" width="100%" alt="dotfiles, planned"></td>
 </tr>
 </table>
 
