@@ -93,18 +93,24 @@ role   : artist / designer / dev
 **☀️ TODAY'S CODING**
 
 <!--WAKATIME_TODAY_TIME-->
-`2 hrs 29 mins`
+`2 hrs 50 mins`
 
 <sub>2026-11-01 · Asia/Kolkata</sub>
-
 
 </td>
 <td width="50%" valign="top">
 
 **📅 LAST 7 COMPLETED DAYS**
 
-`Waiting for the first successful update.`
-
+```text
+Sun, 25 Oct: 0 secs
+Mon, 26 Oct: 0 secs
+Tue, 27 Oct: 0 secs
+Wed, 28 Oct: 0 secs
+Thu, 29 Oct: 0 secs
+Fri, 30 Oct: 0 secs
+Sat, 31 Oct: 1 hr 4 mins
+```
 </td>
 </tr>
 </table>
