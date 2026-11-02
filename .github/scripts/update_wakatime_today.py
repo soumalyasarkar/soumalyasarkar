@@ -15,8 +15,11 @@ API_KEY = os.environ["WAKATIME_API_KEY"]
 TIMEZONE = "Asia/Kolkata"
 
 local_today = datetime.now(ZoneInfo(TIMEZONE)).date()
-today = local_today.isoformat()
-end_date = local_today - timedelta(days=1)
+# WakaTime summaries only include completed days. Running at midnight IST
+# means today isn't in the API yet, so use yesterday as the latest day.
+today = local_today - timedelta(days=1)
+today_iso = today.isoformat()
+end_date = today
 start_date = end_date - timedelta(days=6)
 
 
@@ -33,7 +36,7 @@ response = requests.get(
     url,
     params={
         "start": start_date.isoformat(),
-        "end": today,
+        "end": today_iso,
         "timezone": TIMEZONE,
     },
     headers={
@@ -53,7 +56,7 @@ def total_for(day: date) -> str:
     return entry.get("grand_total", {}).get("text", "0 secs")
 
 
-coding_time = total_for(local_today)
+coding_time = total_for(today)
 completed_week = [end_date - timedelta(days=offset) for offset in range(6, -1, -1)]
 week_lines = [f"{day.strftime('%a, %d %b')}: {total_for(day)}" for day in completed_week]
 
@@ -84,7 +87,7 @@ panel = (
     "\n<table>\n<tr>\n"
     "<td width=\"50%\" valign=\"top\">\n\n"
     "**☀️ TODAY'S CODING**\n\n"
-    f"{marker}\n`{coding_time}`\n\n<sub>{today} · Asia/Kolkata</sub>\n\n"
+    f"{marker}\n`{coding_time}`\n\n<sub>{today_iso} · Asia/Kolkata</sub>\n\n"
     "</td>\n<td width=\"50%\" valign=\"top\">\n\n"
     "**📅 LAST 7 COMPLETED DAYS**\n\n"
     "```text\n" + "\n".join(week_lines) + "\n```\n"
